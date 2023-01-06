@@ -1,4 +1,4 @@
-# Learn Git the FAST way.
+Learn Git the FAST way
 
 In this blog post, I'll share what is Git? And how to get started with Git.
 
@@ -31,7 +31,7 @@ If everything went right, you'll notice a `.git` folder (all dot files are hidde
 
 In Git, a branch is a separate line of development. Say, you and your friend are working on two separate features. Each of you would make a copy of the default branch, called the `main` branch, and then you'll make changes on your respective branches. Any changes you make in your branch would not affect other branches. Once you are done, you can merge your branch with the main branch.
 
-![figure explaining how branches work in git](https://cdn.hashnode.com/res/hashnode/image/upload/v1672986281300/371c49cc-5858-4755-833c-4422ba6d8916.png align="center")
+![how git branches work](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89tv2xefdxif5dhtm8sx.png)
 
 *The above figure shows how branches work in Git. We'll talk about "commits" later on. But for now, think of it as "saved changes".*
 
@@ -78,7 +78,7 @@ git status
 
 If we run git status, we'll see `intro.txt` marked in green. That's because we have some changes that are not "saved".
 
-![git status will show intro.txt as green](https://cdn.hashnode.com/res/hashnode/image/upload/v1672988328475/f1850295-daf4-46b1-b00c-13f7fa9d44a0.png align="center")
+![git status will show intro.txt as green](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94lxf1s0vn1nrje1qrm7.png)
 
 We can save these changes or "commit these changes" by using the command `git commit -m "your commit message"`. A commit message is mandatory.
 
@@ -92,7 +92,7 @@ Now I'll add the text "I am a Web Developer" in `intro.txt` and make one more co
 git commit -m "[add] my profession"
 ```
 
-![git commit](https://cdn.hashnode.com/res/hashnode/image/upload/v1672989223650/266f9eac-8965-4362-ae69-c3aa8544e97a.png align="center")
+![git commit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a9ymw4al9cdygduc4w0.png)
 
 ### Revert Changes
 
@@ -100,7 +100,8 @@ Every commit has a unique commit id. Use `git log` to see your commit history.
 
 **Side Note:** Use `git log --show-linear-break --oneline` to get a formatted version of the commit history with every commit in a single line.
 
-![commit log](https://cdn.hashnode.com/res/hashnode/image/upload/v1672989461908/30535d15-7584-4a28-8398-1bc0e50b9c08.png align="center")
+
+![commit log](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39qqs7nk3zvtip3rtbgn.png)
 
 Now, let's say you don't want the recent changes and want to revert back to a previous commit. Use `git revert <commit-id>` to restore your code base to a previous commit.
 
