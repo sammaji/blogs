@@ -9,6 +9,10 @@ This repo contains a list of all my blogs.
 <br/> In this blog post, I'll share what is Git? And how to get started with Git.
 But first, why even learn git? Well... Let's say you are working on a project which has thousands of lines of code. So you modified 5 different files. However, due to some re... </p> <br/> <br/>
 <p align="left">
+
+<a href="https://sammaji.hashnode.dev//why-learn-new-tech" title="Why learn new tech?"><strong>Why learn new tech?</strong></a>
+<br/> As a developer, staying up-to-date with the latest technologies, frameworks, and tools is crucial for staying competitive in the job market and staying engaged in your work. In this post, we'll explore some of the benefits of learning and using new t... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673183541921/c5a26c22-ee47-4cb4-ab76-ca661fefc1c1.png" alt="JavaScript Datatypes in Detail" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><strong>JavaScript Datatypes in Detail</strong></a>
 <br/> There are seven different primitive data types in JavaScript: undefined, null, number, bigint, string, boolean and symbol. We'll learn about each of them in detail.
