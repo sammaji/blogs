@@ -4,6 +4,10 @@ This repo contains a list of all my blogs.
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sammaji.hashnode.dev//the-complete-guide-to-user-authentication-in-firebase" title="The Complete Guide to User Authentication in Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676024782517/2adb9d89-19ac-4d88-93ae-af574f4cee0e.png" alt="The Complete Guide to User Authentication in Firebase" width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//the-complete-guide-to-user-authentication-in-firebase" title="The Complete Guide to User Authentication in Firebase"><strong>The Complete Guide to User Authentication in Firebase</strong></a>
+<br/> In this blog, we'll cover how to implement a simple login signup functionality using firebase. We'll be using modular JavaScript SDK, which (according to the documentation) provides a reduced SDK size and greater efficiency with modern JavaScript bui... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673183541921/c5a26c22-ee47-4cb4-ab76-ca661fefc1c1.png" alt="JavaScript Datatypes in Detail" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><strong>JavaScript Datatypes in Detail</strong></a>
 <br/> There are seven different primitive data types in JavaScript: undefined, null, number, bigint, string, boolean and symbol. We'll learn about each of them in detail.
