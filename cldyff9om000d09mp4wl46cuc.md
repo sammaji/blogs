@@ -95,7 +95,7 @@ export const SignUp = async (email, password) => {
 
 Now you can set up a simple UI with inputs and buttons, and call the `SignUp` function on button click. You can also add some client-side email/password validation. Also, it's best to wrap the code in a `catch` block and display proper error messages. These are very easy to implement, so I'll leave it on you.
 
-### Loggin in an existing user
+### Logging in an existing user
 
 In firebase, log-in is very similar to sign-in. Just instead of calling `createUserWithEmailAndPassword` , we'll call `signInWithEmailAndPassword` .
 
