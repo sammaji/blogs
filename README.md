@@ -4,6 +4,10 @@ This repo contains a list of all my blogs.
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676278903398/2597f58a-f644-40de-91d9-51e3203e4024.png" alt="A Short Introduction to React" width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><strong>A Short Introduction to React</strong></a>
+<br/> React is a JavaScript library for building user interfaces. It is developed and maintained by Facebook, and is widely used for building single-page applications and mobile apps. React allows developers to build reusable UI components, manage the stat... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//the-complete-guide-to-user-authentication-in-firebase" title="The Complete Guide to User Authentication in Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676024782517/2adb9d89-19ac-4d88-93ae-af574f4cee0e.png" alt="The Complete Guide to User Authentication in Firebase" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//the-complete-guide-to-user-authentication-in-firebase" title="The Complete Guide to User Authentication in Firebase"><strong>The Complete Guide to User Authentication in Firebase</strong></a>
 <br/> In this blog, we'll cover how to implement a simple login signup functionality using firebase. We'll be using modular JavaScript SDK, which (according to the documentation) provides a reduced SDK size and greater efficiency with modern JavaScript bui... </p> <br/> <br/>
