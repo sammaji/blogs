@@ -4,6 +4,10 @@ This repo contains a list of all my blogs.
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png" alt="Introduction to Tailwind" width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
+<br/> Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline... </p> <br/> <br/>
+<p align="left">
 <a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676278903398/2597f58a-f644-40de-91d9-51e3203e4024.png" alt="A Short Introduction to React" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//a-short-introduction-to-react" title="A Short Introduction to React"><strong>A Short Introduction to React</strong></a>
 <br/> React is a JavaScript library for building user interfaces. It is developed and maintained by Facebook, and is widely used for building single-page applications and mobile apps. React allows developers to build reusable UI components, manage the stat... </p> <br/> <br/>
