@@ -126,3 +126,5 @@ module.exports = {
 ```
 
 You can customize other properties like border-radius, font family and so on. Refer to the [docs](https://tailwindcss.com/docs/theme).
+
+![](https://images.unsplash.com/photo-1608389168343-ba8aa0cb3a63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80 align="center")
