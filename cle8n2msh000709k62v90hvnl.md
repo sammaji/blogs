@@ -4,9 +4,7 @@ Are you tired of writing CSS from scratch and spending hours tinkering with styl
 
 ## Installation
 
-The installation process is pretty straightforward. The [documentation](https://tailwindcss.com/docs/installation) for tailwind covers that pretty well. There's an official Tailwind VSCode extension that provides intellisense for tailwind classes. There's also a [prettier plugin](https://www.npmjs.com/package/prettier-plugin-tailwind) that helps to sort and reorder tailwind classes.
-
-With Tailwind, you style elements by applying pre-existing classes directly in your HTML.
+The installation process is pretty straightforward. The [documentation](https://tailwindcss.com/docs/installation) for tailwind covers that pretty well. There's an official Tailwind [VSCode extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) that provides intellisense for tailwind classes. There's also a [prettier plugin](https://www.npmjs.com/package/prettier-plugin-tailwind) that helps to sort and reorder tailwind classes.
 
 ## What is Tailwind?
 
