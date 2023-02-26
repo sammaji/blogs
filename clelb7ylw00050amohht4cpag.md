@@ -27,8 +27,8 @@ This will create an empty project with no dependencies installed. You need to do
 cd app-name
 
 # install dependencies
-npm install
-yarn install
+npm ci
+yarn
 ```
 
 Now you are good to go.
