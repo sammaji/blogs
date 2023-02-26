@@ -6,7 +6,8 @@ In this blog post, we'll learn to use Vite, and how it can help you build your w
 
 ## What is Vite?
 
-Vite is a modern build tool for web development that emphasizes speed and simplicity. It uses native ES modules to deliver lightning-fast performance during development and leverages features like **hot module replacement** and **tree shaking** to optimize the size and performance of your production builds. Vite is designed to be easy to use, with a simple configuration and a low learning curve, making it an ideal tool for web developers who want to build fast and efficient web applications without getting bogged down in complex configuration and setup.
+Vite is a modern build tool for web development that emphasizes speed and simplicity. It uses native ES modules to deliver lightning-fast performance during development and leverages features like **hot module replacement** and **tree shaking** to optimize the size and performance of your production builds. 
+Vite is designed to be easy to use, with a simple configuration and a low learning curve, making it an ideal tool for web developers who want to build fast and efficient web applications without getting bogged down in complex configuration and setup.
 
 ## Getting Started
 
