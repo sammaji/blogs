@@ -24,7 +24,10 @@ In this blog post, we'll learn to use Vite, and how it can help you build your w
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673183541921/c5a26c22-ee47-4cb4-ab76-ca661fefc1c1.png" alt="JavaScript Datatypes in Detail" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//javascript-datatypes-in-detail" title="JavaScript Datatypes in Detail"><strong>JavaScript Datatypes in Detail</strong></a>
 <br/> There are seven different primitive data types in JavaScript: undefined, null, number, bigint, string, boolean and symbol. We'll learn about each of them in detail.
-1. Number
+
+Number
+
+
 Number stores numerical values. This is different from some other programmi... </p> <br/> <br/>
 <p align="left">
 <a href="https://sammaji.hashnode.dev//the-role-of-automation-in-increasing-productivity" title="The Role of Automation in Increasing Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673109354075/9f65325e-1736-4703-9412-e53b9b66512a.png" alt="The Role of Automation in Increasing Productivity" width="250px" align="left" /></a>
