@@ -9,10 +9,6 @@ This repo contains a list of all my blogs.
 <br/> If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
 In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu... </p> <br/> <br/>
 <p align="left">
-
-<a href="https://sammaji.hashnode.dev//discover-the-top-5-news-apps-and-sites-for-developers" title="Discover the Top 5 News Apps and Sites for Developers"><strong>Discover the Top 5 News Apps and Sites for Developers</strong></a>
-<br/> As a developer, staying up-to-date with the latest tech news and trends is essential. Fortunately, there are many news apps and websites out there that can help you stay informed. In this blog, we'll introduce you to the top 5 news apps and sites for... </p> <br/> <br/>
-<p align="left">
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png" alt="Introduction to Tailwind" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//introduction-to-tailwind" title="Introduction to Tailwind"><strong>Introduction to Tailwind</strong></a>
 <br/> Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline... </p> <br/> <br/>
@@ -34,10 +30,9 @@ Number
 
 Number stores numerical values. This is different from some other programmi... </p> <br/> <br/>
 <p align="left">
-<a href="https://sammaji.hashnode.dev//learn-git-the-fast-way" title="Learn Git the FAST way."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672992256130/7106a50c-35c4-45d1-a3ec-9a1bdff8dfdf.png" alt="Learn Git the FAST way." width="250px" align="left" /></a>
-<a href="https://sammaji.hashnode.dev//learn-git-the-fast-way" title="Learn Git the FAST way."><strong>Learn Git the FAST way.</strong></a>
-<br/> In this blog post, I'll share what is Git? And how to get started with Git.
-But first, why even learn git? Well... Let's say you are working on a project which has thousands of lines of code. So you modified 5 different files. However, due to some re... </p> <br/> <br/>
+<a href="https://sammaji.hashnode.dev//the-role-of-automation-in-increasing-productivity" title="The Role of Automation in Increasing Productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673109354075/9f65325e-1736-4703-9412-e53b9b66512a.png" alt="The Role of Automation in Increasing Productivity" width="250px" align="left" /></a>
+<a href="https://sammaji.hashnode.dev//the-role-of-automation-in-increasing-productivity" title="The Role of Automation in Increasing Productivity"><strong>The Role of Automation in Increasing Productivity</strong></a>
+<br/> As developers, we are constantly looking for ways to streamline our workflows and increase our productivity. One strategy that can have a big impact is the use of automation. Automation refers to the use of technology to perform tasks without human i... </p> <br/> <br/>
 <p align="left">
 <a href="https://sammaji.hashnode.dev//write-semantic-html" title="Write semantic HTML"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671213645879/1Z9N-1nvK.jpeg" alt="Write semantic HTML" width="250px" align="left" /></a>
 <a href="https://sammaji.hashnode.dev//write-semantic-html" title="Write semantic HTML"><strong>Write semantic HTML</strong></a>
