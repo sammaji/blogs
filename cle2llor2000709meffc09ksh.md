@@ -1,4 +1,15 @@
-# A Short Introduction to React
+---
+title: "A Short Introduction to React"
+seoTitle: "React: A Guide to SPAs, Virtual DOMs, Components   and JSX"
+seoDescription: "Get started with React, a JavaScript library for building user interfaces. Discover the benefits of components, Virtual DOM, and SPAs."
+datePublished: Mon Feb 13 2023 09:13:34 GMT+0000 (Coordinated Universal Time)
+cuid: cle2llor2000709meffc09ksh
+slug: a-short-introduction-to-react
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676278903398/2597f58a-f644-40de-91d9-51e3203e4024.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676279362637/8733074d-79c6-4bd8-a7d2-86d5ae30767d.png
+tags: introduction, javascript, web-development, reactjs, jsx
+
+---
 
 React is a JavaScript library for building user interfaces. It is developed and maintained by Facebook, and is widely used for building single-page applications and mobile apps. React allows developers to build reusable UI components, manage the state of the application, and efficiently render changes to the user interface.
 
