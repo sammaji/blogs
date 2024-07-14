@@ -1,4 +1,15 @@
-# Vite: The Fast, Simple, and Efficient Build Tool for Web Developers
+---
+title: "Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"
+seoTitle: "Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"
+seoDescription: "Learn to use Vite, and how it can help you build your web applications. We'll also cover topics like Hot Module Replacement, Tree Shaking, SWC and so on."
+datePublished: Sun Feb 26 2023 11:30:35 GMT+0000 (Coordinated Universal Time)
+cuid: clelb7ylw00050amohht4cpag
+slug: vite-the-fast-simple-and-efficient-build-tool-for-web-developers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677410821617/44177c26-8010-4cee-800a-466390c86d83.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677410833899/3573d771-6ec7-47e1-aaa9-52baef466f50.png
+tags: web-development, build-tool, webdev, vite, hot-module-replacement
+
+---
 
 If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need.
 
