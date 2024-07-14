@@ -1,4 +1,15 @@
-# The Complete Guide to User Authentication in Firebase
+---
+title: "The Complete Guide to User Authentication in Firebase"
+seoTitle: "Learn How to Implement User Authentication in Firebase with JavaScript"
+seoDescription: "Use firebase and javascript to implement a secure login signup functionality.  Learn how to create a new user and log in an existing user."
+datePublished: Fri Feb 10 2023 11:09:32 GMT+0000 (Coordinated Universal Time)
+cuid: cldyff9om000d09mp4wl46cuc
+slug: the-complete-guide-to-user-authentication-in-firebase
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676024782517/2adb9d89-19ac-4d88-93ae-af574f4cee0e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676024753145/a7cd654b-f330-44ed-824e-22caaebe2f5f.png
+tags: javascript, firebase, web-development, webdev
+
+---
 
 In this blog, we'll cover how to implement a simple login signup functionality using firebase. We'll be using [modular JavaScript SDK](https://firebase.google.com/docs/web/learn-more?authuser=0&hl=en#modular-version), which (according to the documentation) provides a reduced SDK size and greater efficiency with modern JavaScript build tools such as [Webpack](https://webpack.js.org/) or [Rollup](https://rollupjs.org/).
 
