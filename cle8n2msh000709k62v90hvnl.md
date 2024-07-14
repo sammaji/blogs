@@ -1,4 +1,15 @@
-# Introduction to Tailwind
+---
+title: "Introduction to Tailwind"
+seoTitle: "A Beginner's Guide to Using Tailwind CSS for Easy HTML Styling"
+seoDescription: "Learn about the Tailwind CSS framework and simplify your web development process, covers everything from installation to customization, with examples, tips"
+datePublished: Fri Feb 17 2023 14:41:22 GMT+0000 (Coordinated Universal Time)
+cuid: cle8n2msh000709k62v90hvnl
+slug: introduction-to-tailwind
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676644860220/d616a3bf-15d6-4c86-89a5-803b8578104c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676644447499/0a4168d5-87c8-4c8f-86a4-42774b667749.png
+tags: frontend, web-development, webdev, frontend-development, tailwind-css
+
+---
 
 Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamlines the styling process and puts control back in your hands. In this blog, we'll cover everything you need to know about Tailwind, from installation to customization, so you can start using it in your projects right away.
 
